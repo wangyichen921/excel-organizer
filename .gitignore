@@ -1,0 +1,16 @@
+.venv/
+.deps/
+.tools/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+build/
+dist/
+tests/tmp*/
+*.log
+*.tmp
+*.temp
+*.bak
+~$*.xlsx
+examples/* - 副本.xlsx
