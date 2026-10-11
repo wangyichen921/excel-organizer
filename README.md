@@ -18,7 +18,7 @@
 
 ## 下载与使用 EXE（无需安装 Python）
 
-前往 [Releases 页面](https://github.com/wangyichen921/excel-organizer/releases)，下载 `Excel自动整理工具.exe`。双击启动后：
+前往 [v1.0.0 下载页面](https://github.com/wangyichen921/excel-organizer/releases/tag/v1.0.0)，点击显示为“Excel自动整理工具.exe”的附件。GitHub 不保留附件名中的中文字符，实际下载文件名是 `Excel-Organizer-v1.0.0-Windows.exe`；文件内容与本地构建的 `Excel自动整理工具.exe` 相同。双击启动后：
 
 1. 点击“添加文件”，选择两个或更多表头相同的 `.xlsx` 文件。
 2. 在“排序列”中选择一列，再选择升序或降序。
